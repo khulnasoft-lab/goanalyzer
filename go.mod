@@ -3,7 +3,7 @@ module github.com/khulnasoft-lab/goanalyzer
 go 1.20
 
 require (
-	github.com/alecthomas/gometalinter v1.2.1
+	github.com/alecthomas/gometalinter v3.0.0+incompatible
 	github.com/client9/misspell v0.3.4
 	github.com/dgraph-io/badger/v2 v2.2007.4
 	github.com/dustin/go-humanize v1.0.1

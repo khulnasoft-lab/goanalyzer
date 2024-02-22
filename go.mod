@@ -11,7 +11,7 @@ require (
 	github.com/gordonklaus/ineffassign v0.1.0
 	github.com/prometheus/client_golang v1.14.0
 	golang.org/x/lint v0.0.0-20201208152925-83fdc39ff7b5
-	honnef.co/go/tools v0.4.6
+	honnef.co/go/tools v0.4.7
 )
 
 require (

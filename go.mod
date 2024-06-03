@@ -10,7 +10,7 @@ require (
 	github.com/fzipp/gocyclo v0.3.1
 	github.com/gordonklaus/ineffassign v0.1.0
 	github.com/prometheus/client_golang v1.19.1
-	golang.org/x/lint v0.0.0-20201208152925-83fdc39ff7b5
+	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
 	honnef.co/go/tools v0.4.6
 )
 
